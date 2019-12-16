@@ -1,7 +1,7 @@
 # Task 2
 
-Class diagram
-![diagram](diagram.jpg "diagram")
+Skema Relasi
+![diagram]("Skema Relasi.jpg" "diagram")
 
 # to-do
 
